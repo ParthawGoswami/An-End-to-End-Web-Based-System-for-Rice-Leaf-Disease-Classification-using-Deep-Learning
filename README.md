@@ -1,0 +1,2 @@
+# An-End-to-End-Web-Based-System-for-Rice-Leaf-Disease-Classification-using-Deep-Learning
+This research presents a deep learning based Website design to classify three common rice leaf diseases: Bacterial Leaf Blight, Brown Spot and Leaf Smut. Six transfer learning CNN models have been used for faster operation targeting the website suitability. The paper has been accepted by 7th International Joint Conference on Advances in Computational Intelligence IJCACI 2023.
